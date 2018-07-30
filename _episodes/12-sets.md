@@ -1,7 +1,7 @@
 ---
 title: "Sets"
-teaching: 5
-exercises: 5
+teaching: 15
+exercises: 20
 questions:
 - "What is a set, and how do I use it?"
 objectives:
