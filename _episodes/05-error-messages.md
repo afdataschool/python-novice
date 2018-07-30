@@ -108,11 +108,6 @@ NameError: name 'aege' is not defined
 
 ## Fix syntax errors by reading the source and runtime errors by tracing execution.
 
-FIXME: diagram of where each type of error occurs.
-
-FIXME: this entire episode needs to move later (we can't do IndentationError yet, or 
-talk about the tracebacks until we've written functions).
-
 > ## Reading Error Messages
 >
 > Read the traceback below, and identify the following:
