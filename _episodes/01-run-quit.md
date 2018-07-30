@@ -1,5 +1,5 @@
 ---
-title: "Running and Quitting"
+title: "Running Jupyter"
 teaching: 15
 exercises: 0
 questions:
@@ -57,15 +57,7 @@ keypoints:
 *   Just like a webpage, the saved notebook looks different to what you see when 
     it gets rendered by your browser.
 
-FIXME: diagram
 
-> ## How It's Stored
->
-> *   The notebook file is stored in a format called JSON.
-> *   Just like a webpage, what's saved looks different from what you see in your browser.
-> *   But this format allows Jupyter to mix software (in several languages) with documentation 
-      and graphics, all in one file.
-{: .callout}
 
 ## The Notebook has Control and Edit modes.
 
@@ -224,7 +216,7 @@ Or use [named links][data_carpentry].
 > 2.  Do work.
 >     *   Design experiment.
 >     *   Collect data.
->     *   Analyze.
+>     *   Analyse.
 > 3.  Write up.
 > 4.  Publish.
 {: .challenge}
