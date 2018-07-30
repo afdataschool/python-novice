@@ -1,7 +1,7 @@
 ---
 title: "Variables and Assignment"
-teaching: 5
-exercises: 5
+teaching: 15
+exercises: 10
 questions:
 - "How can I store data in programs?"
 objectives:
@@ -17,6 +17,8 @@ keypoints:
 - "Variables can be used in calculations."
 ---
 ## Use variables to store values.
+
+Remember high school algebra? Then you've seen variables before!
 
 *   Variables are names for values.
 *   In Python the `=` symbol assigns the value on the right to the name on the left.
