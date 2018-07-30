@@ -1,7 +1,7 @@
 ---
 title: "Running Jupyter"
 teaching: 15
-exercises: 0
+exercises: 5
 questions:
 - "How can I run Python programs?"
 objectives:
@@ -96,6 +96,8 @@ keypoints:
 *   Pressing the "return" key and the "shift" key together will execute the contents of the cell.
 *   Notice that the "return" and "shift" keys on the 
     right of the keyboard are right next to each other.
+
+Pause for a play. 
 
 ## The Notebook will turn Markdown into pretty-printed documentation.
 
