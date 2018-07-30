@@ -1,7 +1,7 @@
 ---
 title: "Data Types and Type Conversion"
-teaching: 5
-exercises: 5
+teaching: 15
+exercises: 10
 questions:
 - "What kinds of data do programs store?"
 - "How can I convert one type to another?"
@@ -296,7 +296,4 @@ first is 2 and second is 5
 > {: .solution}
 {: .challenge}
 
-> ## Complex Numbers
->
-> FIXME: introduce complex numbers
-{: .challenge}
+
