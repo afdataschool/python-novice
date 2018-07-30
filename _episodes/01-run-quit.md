@@ -29,8 +29,6 @@ keypoints:
 ## Use the Jupyter Notebook for editing and running Python.
 
 *   The [Anaconda package manager][anaconda] is an automated way to install the Jupyter notebook.
-    *   See [the setup instructions]({{ site.github.url }}/setup/) for Anaconda installation 
-        instructions.
 *   It also installs all the extra libraries it needs to run.
 *   Once you have installed Python and the Jupyter Notebook requirements, open a shell and type:
 
@@ -73,13 +71,13 @@ keypoints:
 {: .callout}
 
 *   If you press "esc" and "return" alternately,
-    the outer border of your code cell will change from gray to green.
+    the outer border of your code cell will change from grey to green.
     *   The difference in color is subtle.
-*   These are the control (gray) and edit (green) modes of your notebook.
-*   If you use the "esc" and "return" keys to make the surround gray
+*   These are the control (grey) and edit (green) modes of your notebook.
+*   If you use the "esc" and "return" keys to make the surround grey
     and then press the "H" key,
     a list of all the shortcut keys will appear.
-*   When in control mode (esc/gray),
+*   When in control mode (esc/grey),
     *   The "B" key will make a new cell below the currently selected cell.
     *   The "A" key will make one above.
     *   The "X" key will delete the current cell.
@@ -106,11 +104,11 @@ keypoints:
         and other things that might go into a web page.
     *   Equivalently, a subset of HTML that looks like what you'd send in an old-fashioned email.
 *   Turn the current cell into a Markdown cell by entering 
-    the control mode (esc/gray) and press the "M" key.
+    the control mode (esc/grey) and press the "M" key.
 *   `In [ ]:` will disappear to show it is no longer a code cell
     and you will be able to write in Markdown.
 *   Turn the current cell into a Code cell
-    by entering the control mode (esc/gray) and press the "Y" key.
+    by entering the control mode (esc/grey) and press the "Y" key.
 
 ## Markdown does most of what HTML does.
 
