@@ -66,21 +66,16 @@ for name in birthdays:
 ~~~
 {: .python}
 
-What kind of error is reported?
-> ## Sets are unordered
-> As sets are unordered, the order of the elements can be different when you print this.
-{: .callout}
-
-
-> ## Initialising
+> ## Molecules
+> You need to keep track of molecules in the lab, and want to be
+> able to look up molecular formulas given a molecule's name. 
+> 
+> chlorine : Cl*2
+> silver nitrate: Ag.N.O*3
+> sodium chloride :Na.Cl> 
 >
-> What does the following program print?
->
-> ~~~
-> letters = set('Hello world!')
-> sorted_letters = list(letters)
-> sorted_letters.sort()
-> print('Letters in greeting:', sorted_letters)
-> ~~~
-> {: .python}
+>1. Use a dictionary to represent how many atoms of each element combine to make silver nitrate.
+>2. Use a nested dictionary to represent the chemical formula of any of these elements.
+>3. Calcul
 {: .challenge}
+
