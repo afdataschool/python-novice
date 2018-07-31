@@ -69,13 +69,16 @@ for name in birthdays:
 > ## Molecules
 > You need to keep track of molecules in the lab, and want to be
 > able to look up molecular formulas given a molecule's name. 
-> 
-> chlorine : Cl*2
-> silver nitrate: Ag.N.O*3
-> sodium chloride :Na.Cl> 
+>
+> silver nitrate: Ag.N.O<sub>3</sub>
+>
+> chlorine : Cl<sub>2</sub>
+>
+> sodium chloride :Na.Cl
 >
 >1. Use a dictionary to represent how many atoms of each element combine to make silver nitrate.
 >2. Use a nested dictionary to represent the chemical formula of any of these elements.
->3. Calcul
+>3. How would you look up the number of ions of Cl that combine in sodium chloride?
+>4. HARDER: use an accumulator and a for loop to tally the total number of each element in your dictionary?
 {: .challenge}
 
