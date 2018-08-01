@@ -175,25 +175,6 @@ final velocity: 30.0
 ~~~
 {: .output}
 
-## Create a table showing updates to variables' values to trace the execution of a program.
-
-<table>
-  <tr> <td><strong>i</strong></td> <td><strong>velocity</strong></td> </tr>
-  <tr> <td>0</td> <td>10.0</td> </tr>
-  <tr> <td> </td> <td>20.0</td> </tr>
-  <tr> <td>1</td> <td></td> </tr>
-  <tr> <td> </td> <td>30.0</td> </tr>
-  <tr> <td>2</td> <td></td> </tr>
-  <tr> <td> </td> <td>25.0</td> </tr>
-  <tr> <td>3</td> <td></td> </tr>
-  <tr> <td> </td> <td>20.0</td> </tr>
-  <tr> <td>4</td> <td></td> </tr>
-  <tr> <td> </td> <td>30.0</td> </tr>
-</table>
-
-*   The program must have a `print` statement *outside* the body of the loop
-    to show the final value of `velocity`,
-    since its value is updated by the last iteration of the loop.
 
 > ## Tracing Execution
 >
